@@ -3,10 +3,15 @@ Reedsy's (fictional) Merchandising Store
 To get the Rails server running locally:
 
 Clone this repo
+
 bundle install to install all required dependencies
+
 rails db:create to create the database
+
 rails db:migrate to run migrations
+
 rails db:seed to seed the data
+
 rails s to start the local server
 
 Given below are the description of the API endpoints with cURL examples.
